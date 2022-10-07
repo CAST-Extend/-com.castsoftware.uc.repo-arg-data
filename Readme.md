@@ -1,4 +1,4 @@
-# Developer Productivity Data Collection Tool
+# Repository Analysis Report Generator Data Collection Tool
 The script is used to connect statistical information from one or more GitHub repositories.  This information is then added to an excel spreadsheet which the CAST Team will use to generate a report.  
 
 ## Usage
