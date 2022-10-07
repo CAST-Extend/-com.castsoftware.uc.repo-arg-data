@@ -1,5 +1,5 @@
 # Repository Analysis Report Generator Data Collection Tool
-The is used to collect statistical information from one or more GitHub repositories.  This information is then added to an excel spreadsheet which the CAST Team will use to generate a report.  
+This tool is used to collect statistical information from one or more GitHub repositories.  This information is then added to an excel spreadsheet which the CAST Team will use to generate a report.  
 
 ## Usage
 The script is designed to run on the command line using 3 parameters, --token, --owner and --url. Used to identify the token, the repository owner and the github URL.
